@@ -39,18 +39,6 @@ No build tools or dependencies required. Pure static site.
 
 ---
 
-## Run Locally
-
-```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-python3 -m http.server 8000
-```
-
-Then open [http://localhost:8000](http://localhost:8000) in your browser.
-
----
-
 ## Project Structure
 
 ```
